@@ -30,3 +30,7 @@ Contributions to this project are welcome. You can contribute by:
 ## License
 This project is licensed under the .[MIT License][LICENSE](https://github.com/josephakash001/Generative-AI/edit/main/LICENSE.txt)
 
+## Output
+![Happy](https://github.com/josephakash001/Generative-AI/blob/main/Output/Happy.png)
+![Sad](https://github.com/josephakash001/Generative-AI/blob/main/Output/Sad.png)
+
