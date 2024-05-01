@@ -28,5 +28,5 @@ Contributions to this project are welcome. You can contribute by:
 - Submitting pull requests to address open issues or add new features
 
 ## License
-This project is licensed under the .[MIT License][LICENSE](https://github.com/josephakash001/Generative-AI/edit/main/License.txt)
+This project is licensed under the .[MIT License][LICENSE](https://github.com/josephakash001/Generative-AI/edit/main/LICENSE.txt)
 
